@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "elgato-mcp-web": {
+      "type": "http",
+      "url": "https://mcp.elgato.com/web"
+    }
+  }
+}

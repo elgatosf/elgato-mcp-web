@@ -1,0 +1,22 @@
+{
+  "name": "elgato-mcp-web",
+  "version": "1.0.0",
+  "description": "Elgato products, prices and stock, support answers, downloads, guides and a cart with checkout link, with the same data as elgato.com.",
+  "author": {
+    "name": "Andreas Daoutis",
+    "email": "andreas.daoutis@elgato.com"
+  },
+  "homepage": "https://mcp.elgato.com/web",
+  "repository": "https://github.com/elgatosf/elgato-mcp-web",
+  "license": "MIT",
+  "keywords": [
+    "elgato",
+    "stream deck",
+    "streaming",
+    "products",
+    "support",
+    "shopping",
+    "mcp"
+  ],
+  "mcpServers": "./mcp.json"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "elgato",
+  "description": "Official Elgato plugins.",
+  "owner": {
+    "name": "Elgato",
+    "email": "andreas.daoutis@elgato.com"
+  },
+  "plugins": [
+    {
+      "name": "elgato-mcp-web",
+      "source": "./",
+      "description": "Elgato products, prices and stock, support answers, downloads, guides and a cart with checkout link, with the same data as elgato.com.",
+      "version": "1.0.0"
+    }
+  ]
+}
